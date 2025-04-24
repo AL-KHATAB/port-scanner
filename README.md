@@ -39,7 +39,7 @@ pip install termcolor pyfiglet
 ```bash
 git clone https://github.com/AL-KHATAB/port-scanner.git
 cd port-scanner
-python port_scanner.py
+python port-scanner.py
 ```
 
 1. **Enter targets**: Provide one or more IPv4 addresses, comma-separated.
